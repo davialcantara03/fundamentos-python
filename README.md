@@ -6,7 +6,7 @@ Aqui estão reunidos mais de 130 exercícios estruturados, divididos entre lógi
 
 ---
 
-## 🛠️ Tecnologias e Conceitos Explorados
+## Tecnologias e Conceitos Explorados
 
 *   **Lógica de Programação:** Estruturas condicionais (`if/elif/else`), laços de repetição (`while/for`) e controle de fluxo.
 *   **Estruturas de Dados:** Manipulação de Listas, Tuplas e Dicionários.
@@ -15,12 +15,12 @@ Aqui estão reunidos mais de 130 exercícios estruturados, divididos entre lógi
 
 ---
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 
 *   `/` (Raiz): Contém os 117 exercícios sequenciais focados em lógica de programação e algoritmos básicos.
 *   `/desafios-poo`: Pasta dedicada aos 13 desafios práticos estruturados sob o paradigma de Programação Orientada a Objetos.
 
 ---
 
-## 🚀 Próximos Passos
+## Próximos Passos
 Com a base de Python consolidada, o foco agora se expande para a stack de análise de dados: **SQL, Power BI e manipulação avançada de dados**, preparando o terreno para os meus primeiros projetos de portfólio.
